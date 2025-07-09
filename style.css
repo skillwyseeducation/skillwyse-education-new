@@ -65,3 +65,11 @@ body {
 .left-aligned {
   text-align: left;
 }
+.green-bold-centre {
+  text-align: centre;
+  font-weight: bold;
+  color: green;
+}
+.center-aligned {
+  text-align: center;
+}
