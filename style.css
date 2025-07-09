@@ -57,3 +57,8 @@ body {
   font-size: 2em;
   margin-bottom: 20px;
 }
+.green-bold-left {
+  text-align: left;
+  font-weight: bold;
+  color: green;
+}
